@@ -1,6 +1,8 @@
-[v0.0.4](https://github.com/littleflute/Rock/edit/master/README.md)
+[v0.0.5](https://github.com/littleflute/Rock/edit/master/README.md)
 
 [Rock of the 70's](Rock of the 70's)
+
+[Rock On- 1982](Rock On- 1982)
 
 [Rock on 1989](Rock on 1989)
 
