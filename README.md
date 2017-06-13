@@ -1,4 +1,4 @@
-[v0.0.5](https://github.com/littleflute/Rock/edit/master/README.md)
+[v0.0.6](https://github.com/littleflute/Rock/edit/master/README.md)
 
 [Rock of the 70's](Rock of the 70's)
 
@@ -15,3 +15,5 @@
 [The Box Set Series- Hard Rock Disc 3](The Box Set Series- Hard Rock Disc 3)
 
 [The Box Set Series- Hard Rock Disc 4](The Box Set Series- Hard Rock Disc 4)
+
+[https://littleflute.github.io/Rock1](https://littleflute.github.io/Rock1)
